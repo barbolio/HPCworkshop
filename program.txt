@@ -1,3 +1,4 @@
 Day 1: introduction to bash and git version control
 Day 2: introdution to HPC
-DAy 3: scitntific visualization
+Day 3: scientific visualization
+Day 4: something
